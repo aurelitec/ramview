@@ -1,6 +1,5 @@
 RAM View Version 0.1 (pre-official release) -
-A basic and easy-to-use MS-DOS memory dump
-utility, with a simple, user friendly
+A simple DOS memory viewer, with a simple
 text-based user interface. Free and
 open-source software. Written and compiled in
 Borland C++ 3.1. Created by Devliber in 1997.
