@@ -1,7 +1,7 @@
 # RAM View
 A simple DOS memory viewer, with a simple text-based user interface. Written in Borland C++ in 1997.
 
-![Screenshot of RAM View running on PCjs](https://github.com/Devliber/ramview/blob/main/assets/readme/ramview-pcjs-screenshot.png)
+![Screenshot of RAM View running on PCjs](https://github.com/aurelitec/ramview/blob/main/assets/readme/ramview-pcjs-screenshot.png)
 
 ## Running
 
@@ -22,10 +22,10 @@ You can run RAM View directly on a computer running Windows 7, or in a Windows 7
 * Display an information panel about memory configuration and size
 
 ## Contributing
-[Pull requests](https://github.com/Devliber/ramview/pulls) are welcome. For major changes, please open an [issue](https://github.com/Devliber/ramview/issues) first to discuss what you would like to change.
+[Pull requests](https://github.com/aurelitec/ramview/pulls) are welcome. For major changes, please open an [issue](https://github.com/aurelitec/ramview/issues) first to discuss what you would like to change.
 
 ## License
 
-Copyright (c) Devliber. All rights reserved.
+Copyright (c) Aurelitec. All rights reserved.
 
 Licensed under the [MIT](LICENSE) license.
