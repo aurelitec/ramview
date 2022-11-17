@@ -50,9 +50,9 @@ void drawScreen(void)
 
     // display version and author information
     win(1, 2, 80, 2, cAppInfo);
-    cputs(" Version 0.1 � Copyright (c) 1997 Aurelitec");
+    cputs(" Version 0.1 \xb3 Copyright (c) 1997 Aurelitec");
     gotoxy(68, 1);
-    cputs("� F10 = Exit");
+    cputs("\xb3 F10 = Exit");
 
     win(1, 25, 80, 25, cAppInfo);
     textattr(cAppInfoSel);
@@ -114,7 +114,7 @@ char *TSRAMBox::getString(long item)
                 vals[i + j * 4] = '.';
         }
         if (j < 3)
-            strcat(buffer, " �");
+            strcat(buffer, " \xba");
     }
     vals[16] = EOS;
     strcat(buffer, "  ");

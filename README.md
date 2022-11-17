@@ -1,7 +1,7 @@
 # RAM View
 A simple DOS memory viewer, with a simple text-based user interface. Written in Borland C++ in 1997.
 
-![Screenshot of RAM View running on PCjs](https://github.com/aurelitec/ramview/blob/main/assets/readme/ramview-pcjs-screenshot.png)
+![Screenshot of RAM View running on PCjs](assets/readme/ramview-pcjs-screenshot.png)
 
 ## Running
 
