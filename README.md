@@ -1,5 +1,9 @@
 # RAM View
-A simple DOS memory viewer, with a simple text-based user interface. Written in Borland C++ in 1997.
+RAM View is a simple memory viewer with a text-based interface. It was originally written in 1997 using Borland C++ 3.1 and was designed to run on DOS systems.
+
+RAM View was recently recompiled for educational and nostalgic reasons. With the DOSBox emulator, it can now be run on modern computers.
+
+While the original software lacks search and navigation functionality, it serves as a reminder of the early days of computing and the challenges that developers faced in working with limited resources.
 
 ![Screenshot of RAM View running on PCjs](assets/readme/ramview-pcjs-screenshot.png)
 
