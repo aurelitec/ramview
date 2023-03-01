@@ -24,6 +24,13 @@ You can run RAM View directly on a computer running Windows 7, or in a Windows 7
 ## Contributing
 [Pull requests](https://github.com/aurelitec/ramview/pulls) are welcome. For major changes, please open an [issue](https://github.com/aurelitec/ramview/issues) first to discuss what you would like to change.
 
+### Learn from Sergey's experience - Contributing to RAM View
+
+RAM View has recently been the subject of an [informative tutorial](https://habr.com/ru/company/timeweb/blog/697688/) published by Sergey, aka dlinyj, who writes for Hacker, a widely acclaimed publication for IT enthusiasts. In his tutorial, Sergey writes about how he edited and helped improve our small legacy RAM View utility by building it from source code with an old compiler, fixing errors caused by encoding problems, and sending a pull request to the original repository to add his changes. This is a reminder that even small projects like RAM View can be the subject of interesting and informative tutorials that offer insights into the world of programming.
+
+Read more on our website:  
+[Don't Underestimate Small Projects: An Informative Tutorial on Editing RAM View's Code](https://www.aurelitec.com/reviews/dont-underestimate-small-projects-ramview-code/)
+
 ## License
 
 Copyright (c) Aurelitec. All rights reserved.
